@@ -1,0 +1,35 @@
+baseURL: https://traeskibetbetty.github.io/traeskibetbetty.dk/
+languageCode: da-dk
+defaultContentLanguage: da-dk
+title: Træskibet Betty
+theme: PaperMod
+menu:
+  main:
+    - identifier: nyheder
+      name: Nyheder
+      url: /nyheder/
+      weight: 10
+    - identifier: arkiv
+      name: Arkiv
+      url: /arkiv/
+      weight: 20
+    - identifier: skibet
+      name: Skibet
+      url: /skibet/
+      weight: 30
+    - identifier: foreningen
+      name: Foreningen
+      url: /foreningen/
+      weight: 40
+    - identifier: indmeldelse
+      name: Indmeldelse
+      url: /indmeldelse/
+      weight: 50
+    - identifier: kategorier
+      name: Kategorier
+      url: /kategorier/
+      weight: 60
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 70
