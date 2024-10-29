@@ -1,7 +1,7 @@
 ---
 date: '2024-03-23T17:29:33+02:00'
 draft: false
-title: 'Nyhedsbrev marts'
+title: 'Nyhedsbrev marts 2024'
 ---
 
 ## Strøm
