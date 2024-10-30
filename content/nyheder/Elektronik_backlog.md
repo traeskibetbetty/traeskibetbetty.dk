@@ -3,7 +3,7 @@ date: '2024-10-30T23:59:29+01:00'
 draft: false
 title: 'Elektronik opgaver 24/25'
 ---
-# Udstyr
+## Udstyr
 
 | Opgave                                             | Beskrivelse                                                                                                                                                                                  | Måned | Prioritet |
 | -------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- | --------- |
@@ -14,7 +14,7 @@ title: 'Elektronik opgaver 24/25'
 | 24 V lampe i bestikken                             |                                                                                                                                                                                              |       |           |
 | Kortplotteren har NMEA funktionaliteter            | NMEA er en protokol som maritime enheder bruger til at dele information med hinanden. <br>- Hvilke af vores udstyr kan snakke med NMEA<br>- Der mangler måske en ledning ind i kortplotteren |       | Lav       |
 
-# Strøm
+## Strøm
 
 | Opgave                          | Beskrivelse                                                                                                                                           | Måned | Prioritet |
 | ------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ----- | --------- |
