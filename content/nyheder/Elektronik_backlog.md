@@ -1,5 +1,5 @@
 ---
-date: '2024-10-30T23:59:29+01:00'
+date: '2024-10-29T23:59:29+01:00'
 draft: false
 title: 'Elektronik opgaver 24/25'
 ---
