@@ -5,7 +5,7 @@ title: 'Elektronik opgaver 24/25'
 ---
 ## Udstyr
 
-| Opgave                                             | Beskrivelse                                                                                                                                                                                  | Måned | Prioritet |
+| Opgave&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                                                                                                                                                           | Måned | Prioritet |
 | -------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- | --------- |
 | Selvstyre skal virke                               |                                                                                                                                                                                              |       | Medium    |
 | AIS modtager virker ikke                           |                                                                                                                                                                                              |       | Medium    |
@@ -16,7 +16,7 @@ title: 'Elektronik opgaver 24/25'
 
 ## Strøm
 
-| Opgave                          | Beskrivelse                                                                                                                                           | Måned | Prioritet |
+| Opgave&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                           | Beskrivelse                                                                                                                                           | Måned | Prioritet |
 | ------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ----- | --------- |
 | Telefon opladning i køjer       |                                                                                                                                                       |       | Super lav |
 | Batteri prioritering            | Navigationsbatterierne skal oplades først og så starterbatterier og så forbrugsbatterier                                                              |       | Super høj |
