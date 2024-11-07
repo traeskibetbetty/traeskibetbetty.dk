@@ -5,6 +5,10 @@ title: Træskibet Betty
 theme: PaperMod
 menu:
   main:
+    - identifier: Vinterarbejde
+      name: Vinter arbejde
+      url: /Vinterarbejde/
+      weight: 5
     - identifier: nyheder
       name: Nyheder
       url: /nyheder/
