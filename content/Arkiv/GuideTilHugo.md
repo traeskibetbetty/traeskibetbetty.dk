@@ -44,9 +44,18 @@ Nu skulle du gerne have en masse filer og have installeret hugo og papermod
 
 ### Tips
 #### Billeder
-Billeder sættes ind med `![Billede af mand som arbejder med et skib](./img/ideal.png)`
-Stien hen til billedet fungerer meget løst. Jeg tror den finder ud af det så godt som muligt og hapser det nærmeste billede.
+Man skal lægge sit billede i mappen /static/img/ og så skal man sætte billedet ind som:
+- `![Beskrivelse af billedet til synshandicappet](/img/navnPåBillede + filtype)`
 
+Eksempelvis `![kristiansand2023](/img/kristiansand2023.jpg)`
+
+##### Seje billeder
+Man kan også skrive det ind således:
+```
+<div style="text-align: center;">
+  <img src="/img/kristiansand2023.jpg" alt="alt" title="This is the title attribute" width="60%" >
+</div>
+```
 #### Links
 Links sættes ind med `[titel på link](link)`
 
