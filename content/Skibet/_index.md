@@ -7,5 +7,3 @@ title: "Skibet"
 Hvor er betty henne lige nu?
 
 <iframe src="https://www.marinetraffic.com/en/ais/embed/mmsi:219022124/shipid:5630282" width="100%" height="400px"></iframe>
-
-<iframe src="https://www.vesselfinder.com/?mmsi=219022124" width="100%" height="400px"></iframe>
