@@ -30,4 +30,5 @@ Esbjerg 8. august - rundt i DK - Aalborg 22. august
 
 Skipper: Frederik.
 ![Sommertogt](/img/Tall ship race.png)
+
 ![Kristiansand 2023](/img/kristiansand2023.jpg)
