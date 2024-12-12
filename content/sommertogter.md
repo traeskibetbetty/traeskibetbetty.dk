@@ -23,6 +23,7 @@ Tall Ship Races har til formål at få unge, studerende og sejlskibs interessere
 
 ## Togt 0:
 Aalborg 5. juni - Pinsestævne Næstved - Brunsbüttel 15. juni
+
 Skipper: Morten Rise
 
 ## Togt 1:
