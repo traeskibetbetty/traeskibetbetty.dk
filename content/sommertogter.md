@@ -43,6 +43,7 @@ Skipper: Jens, Amanda og Tommy
 ## Togt 3:
 
 Esbjerg 8. august - rundt i DK - Aalborg 22. august. 
+
 Dette togt er ikke et Tall Ship Race togt. Togtet starter i Esbjerg, hvor der sejledes, ’hvor vinden tager os hen!’. Planen er at sejle igennem Kieler kanalen og rundt i det dejlige fynske øhav med forskellige stop i skønne havne på vejen. Herefter sættes kursen til Aalborg.
 
 Skipper: Frederik 
